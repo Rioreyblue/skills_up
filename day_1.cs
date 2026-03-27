@@ -8,7 +8,7 @@ class Program
     //     Console.WriteLine("Alexandra Abramov");
     // }
 
-    static void PracticeDay2()
+    static void Main()
     {
         //2. Sum of Two Numbers
       // Write a C# Sharp program to print the sum of two numbers.
